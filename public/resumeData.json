@@ -1,19 +1,20 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and python to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "name":"EZIKE-CHRISTOPHER",
+    "description":"I am Software engineer, and Tools are JavaScript, TypeScript, Python, API’s, CI/CD, Docker/Kubernetes, Git/GitHub & DataBase......",
+    
+    "image":"chrisezike.jpg",
+    "bio":"I am Christopher Ezike, a Full-Stack Software Engineer with 5+ year's experience Developing and Building Complex Technology, Webapps, Mobile/Native Apps, Progressive Webapps(PWA's), My Passion is to explore technology, i am a big fan of blockchain Technology!!! Aside from Coding, I spend time working Educating Junior/Rising  Developers @CodeMythology.com, Lover of  HipHop Music Football and Nigerian Food.....",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "email": "christophermbe1009@gmail.com.",
+    "phone": "+2348109950207,",
+    "github":"https://github.com/ezikechris",
+    "project":"https://www.linkedin.com/in/christopherezike",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Plot 553, By S0. OKPE ST,",
+      "city":"F.C.T",
+      "state":"Abuja, Nigeria"
+     
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
@@ -49,31 +50,44 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University Of Ilorin, Ilorin Kwara State, Nigeria.",
+        "degree":"Bsc. Political Science",
+        "graduated":"September 2018"
       }
+
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
+        "company":"BeboAquaFarms",
+        "title":"Software Engineer@Bebo.com.ng",
+        "years":"",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
+        "company":"RealT",
+        "title":"Software Engineer@RealT.co",
+        "years":"",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Bloverse - Paystack",
+        "title":"Software Engineer@paystack.com@bloverse.com",
+        "years":"",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"TreePrite - FirstHomes",
+        "title":"Software Engineer@Treeprite.com.ng@FirstHome.com",
+        "years":"",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"CodeMythology",
+        "title":"Software Engineer @CodeMythology.com",
+        "years":"",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
+      
     ],
     "skills":[
       {
