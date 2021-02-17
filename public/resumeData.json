@@ -1,19 +1,17 @@
 {
   "main": {
-    "name":"EZIKE-CHRISTOPHER",
-    "description":"I am Software engineer, and Tools are JavaScript, TypeScript, Python, API’s, CI/CD, Docker/Kubernetes, Git/GitHub & DataBase......",
+    "name":"CHRISTOPHER EZIKE SOFTWARE ENGINEER",
+    "description":"JavaScript TypeScript Nodejs Python API’s CI/CD Docker/Kubernetes Git/GitHub MySQL MongoDB.",
     
     "image":"chrisezike.jpg",
-    "bio":"I am Christopher Ezike, a Full-Stack Software Engineer with 5+ year's experience Developing and Building Complex Technology, Webapps, Mobile/Native Apps, Progressive Webapps(PWA's), My Passion is to explore technology, i am a big fan of blockchain Technology!!! Aside from Coding, I spend time working Educating Junior/Rising  Developers @CodeMythology.com, Lover of  HipHop Music Football and Nigerian Food.....",
+    "bio":"I am Christopher Ezike, a Full-Stack Software Engineer with 5+ year's experience Developing and Building Complex Technologies, from html css and javascript to Webapps, Mobile/Native Apps, Progressive Webapps(PWA's), My Passion is to explore blockchain Technology & Machine Learning!!! Aside from Coding, I spend time working Educating Junior/Rising Developers.  @CodeMythology.com.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "christophermbe1009@gmail.com.",
-    "phone": "+2348109950207,",
+    "email": "Synergyaffirm@gmail.com christopherezikeu2@gmail.com christophermbe1009@gmail.com.",
+    "phone": "Mobile: +2348109950207, +2348079321970",
     "github":"https://github.com/ezikechris",
     "project":"https://www.linkedin.com/in/christopherezike",
     "address":{
-      "street":"Plot 553, By S0. OKPE ST,",
-      "city":"F.C.T",
-      "state":"Abuja, Nigeria"
+      "addresse":"Plot"
      
     },
     "website": "http://www.timbakerdev.com",
@@ -47,7 +45,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"University Of Ilorin, Ilorin Kwara State, Nigeria.",
@@ -61,49 +59,49 @@
         "company":"BeboAquaFarms",
         "title":"Software Engineer@Bebo.com.ng",
         "years":"",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Developed client’s websites using Jamstack(html,css,javaScript, mysql & git/github.)"
       },
       {
         "company":"RealT",
         "title":"Software Engineer@RealT.co",
         "years":"",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Built, tested and shipped customer facing features/products using modern tools.(React,Flow,webpack,mongoDb)"
       },
       {
         "company":"Bloverse - Paystack",
         "title":"Software Engineer@paystack.com@bloverse.com",
         "years":"",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Built backend services for Bloverse.com & Paystack(NodeJS, ExpressionJS, Apache Kafka, GRPC, mongoDB)"
       },
       {
         "company":"TreePrite - FirstHomes",
         "title":"Software Engineer@Treeprite.com.ng@FirstHome.com",
         "years":"",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Work with the design the unit to define and develop product roadmap(Go(Golang),React/Redux, Kafka/Kafka connect, Chartjs.)"
       },
       {
         "company":"CodeMythology",
         "title":"Software Engineer @CodeMythology.com",
         "years":"",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Personal BlogSite Made with love."
       }
       
     ],
     "skills":[
       {
+        "name":"JavaScript",
+        "level":"90%"
+      },
+      {
         "name":"Python",
-        "level":"60%"
+        "level":"70%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
+        "name":"TypeScript",
+        "level":"70%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
+        "name":"ReactJS",
         "level":"90%"
       },
       {
@@ -115,7 +113,7 @@
         "level":"50%"
       },
       {
-        "name":"JAVA",
+        "name":"JAVA/Flutter/Dart",
         "level":"80%"
       }
     ]
@@ -123,35 +121,30 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"BeboAquaFarms",
+        "category":"Intergrating Small & MicroFarmers to Increase Production.",
+        "image":"BeboNigeria.jpg",
+        "url":"https://www.bebo.com.ng"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
+        "title":"Real T",
+        "category":"Fractional and frictionless real estate investing",
+        "image":"Realt.jpg",
+        "url":"https://realt.co"
+      },
+      {
+        "title":" Bloverse",
+        "category":"Revolutionalising the Creation & Consumption of Contents",
+        "image":"Bloverse.jpg",
+        "url":"https://bloverse.com"
+      },
+      {
+        "title":"PayStack",
+        "category":"Modern Online & Offline Payments for Africa",
+        "image":"paystack.jpg",
         "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
       }
+     
     ]
   }
 }
