@@ -5,41 +5,40 @@
     
     "image":"chrisezike.jpg",
     "bio":"I am Christopher Ezike, a Full-Stack Software Engineer with 5+ year's experience Developing and Building Complex Technologies, from html css and javascript to Webapps, Mobile/Native Apps, Progressive Webapps(PWA's), My Passion is to explore blockchain Technology & Machine Learning!!! Aside from Coding, I spend time working Educating Junior/Rising Developers.  @CodeMythology.com.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "Synergyaffirm@gmail.com christopherezikeu2@gmail.com christophermbe1009@gmail.com.",
-    "phone": "Mobile: +2348109950207, +2348079321970",
+    "contactmessage":"",
+    "email": "",
+    "phone": "",
     "github":"https://github.com/ezikechris",
     "project":"https://www.linkedin.com/in/christopherezike",
     "address":{
-      "addresse":"Plot"
      
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://www.christopherezike.com",
+    "resumedownload":"https://drive.google.com/file/d/1LeaOUM6d-ApgNdDfW1UZxgz_hBtB1TO3/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://www.facebook.com/christopheronyeka",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/chrisezike_",
         "className":"fa fa-twitter"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/christopherezike",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://github.com/ezikechris",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/ezikechris",
         "className":"fa fa-github"
       }
     ]
@@ -101,7 +100,7 @@
         "level":"70%"
       },
       {
-        "name":"ReactJS",
+        "name":"NodeJs",
         "level":"90%"
       },
       {
@@ -120,6 +119,30 @@
   },
   "portfolio":{
     "projects": [
+      {
+        "title":"2iLabs",
+        "category":"Pioneering a More Capital Efficient Way to Bring New Ideas To LIfe",
+        "image":"2ilabs.jpg",
+        "url":"http://2ilabs.co/"
+      },
+      {
+        "title":"CCCR-NIgeria",
+        "category":"Touching Lives",
+        "image":"cccrnigeria.jpg",
+        "url":"https://cccr-nigeria.org/"
+      },
+      {
+        "title":"SelfcareSolution",
+        "category":"The Right People For Your Team",
+        "image":"selfcaresolution.jpg",
+        "url":"https://selfcaresolution.com.ng/"
+      },
+      {
+        "title":"FirstHomeAfrica",
+        "category":"Why Pay To Rent, When You Can Pay To Own",
+        "image":"firsthomes.jpg",
+        "url":"https://firsthomesafrica.com"
+      },
       {
         "title":"BeboAquaFarms",
         "category":"Intergrating Small & MicroFarmers to Increase Production.",

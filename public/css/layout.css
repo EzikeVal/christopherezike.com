@@ -412,7 +412,7 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #333;
+   background:rgb(255, 255, 255);
    padding-top: 90px;
    padding-bottom: 60px;
 }
