@@ -19,7 +19,7 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>&copy; Copyright 2021, CodeMythology</li>
+              <li>&copy; Copyright 2018, CodeMythology</li>
               <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">CodeMythology</a></li>
            </ul>
 
